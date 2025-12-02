@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Kids Tasks Mobile",
+    "slug": "kids-tasks-mobile",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["android", "ios"],
+    "android": {
+      "package": "com.yourcompany.kidstasks"
+    }
+  }
+}
